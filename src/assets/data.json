@@ -1,0 +1,66 @@
+ [
+  {
+    "colegio": {
+      "nombre": "Colegio Central",
+      "direccion": "Av. Principal 123, Ciudad",
+      "cursos": [
+        {
+          "nombre": "Matemáticas",
+          "profesor": "Carlos López",
+          "estudiantes": [
+            { "nombre": "Ana García", "edad": 15, "nota": 9.2 },
+            { "nombre": "Luis Fernández", "edad": 16, "nota": 8.5 }
+          ]
+        },
+        {
+          "nombre": "Ciencias",
+          "profesor": "Laura Martínez",
+          "estudiantes": [
+            { "nombre": "Pedro Pérez", "edad": 16, "nota": 7.8 },
+            { "nombre": "Lucía Gómez", "edad": 15, "nota": 9.0 }
+          ]
+        },
+        {
+          "nombre": "Historia",
+          "profesor": "María Rodríguez",
+          "estudiantes": [
+            { "nombre": "Jorge Torres", "edad": 16, "nota": 8.9 },
+            { "nombre": "Sofía Ruiz", "edad": 15, "nota": 9.5 }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "colegio": {
+      "nombre": "Colegio Ada",
+      "direccion": "Bogota, Colombia",
+      "cursos": [
+        {
+          "nombre": "Matemáticas",
+          "profesor": "Gabriel ramos",
+          "estudiantes": [
+            { "nombre": "Al chavo", "edad": 12, "nota": 9.2 },
+            { "nombre": "Ana maira", "edad": 16, "nota": 8.5 }
+          ]
+        },
+        {
+          "nombre": "Ciencias",
+          "profesor": "Luz",
+          "estudiantes": [
+            { "nombre": "Jesus Pérez", "edad": 16, "nota": 7.8 },
+            { "nombre": "Esperanza Gómez", "edad": 15, "nota": 9.0 }
+          ]
+        },
+        {
+          "nombre": "Filosofia",
+          "profesor": "María Rodríguez",
+          "estudiantes": [
+            { "nombre": "Matias Torres", "edad": 16, "nota": 8.9 },
+            { "nombre": "Laura Ruiz", "edad": 15, "nota": 9.5 }
+          ]
+        }
+      ]
+    }
+  }
+]
